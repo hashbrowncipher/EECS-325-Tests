@@ -1,0 +1,8 @@
+Short descriptions are given as comments in both .sh files.
+
+josh_sums contains the checksums of the outputs produced by Josh's program
+reference_sums contains the checksums of the reference outputs
+
+TODO:
+Currently we only test mainline cases.  Get some corner cases up in this ----.
+
